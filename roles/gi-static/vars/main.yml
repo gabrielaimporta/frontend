@@ -1,0 +1,4 @@
+---
+# vars file for gi_static
+letsencrypt_email: me@example.com 
+domain_name: mydomain

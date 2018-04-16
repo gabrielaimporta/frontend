@@ -3,3 +3,4 @@
   become: yes
   roles:
     - ansible-role-nginx
+    - gi-static
